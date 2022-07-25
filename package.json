@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-callback-example",
+  "version": "1.0.0",
+  "description": "NodeJS Callback Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/dvsouto/nodejs-callback-example.git",
+  "author": "Davi Souto <davi.souto@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
